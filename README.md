@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I’m a passionate and dedicated iOS engineer who 
 - 🔭 I'm currently leading digital transformation projects.
 - 🌱 I’m currently learning SwiftUI and Combine
 - 👯 I’m looking to collaborate on exciting iOS projects
-- 💬 Ask me about iOS development, Swift, and mobile app design
-- 📫 How to reach me: mahmoudhagar12@gmail.com
+- 💬 Ask me about iOS development, Swift, and mobile app design 
 
 ## 🛠️ Technologies & Tools
 
@@ -23,6 +22,6 @@ Welcome to my GitHub profile! I’m a passionate and dedicated iOS engineer who 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-abd-elaziz-707a1316a/)
-- 
+- 📧 Email: mahmoudhagar12@gmail.com
 
 Thanks for visiting my profile!
