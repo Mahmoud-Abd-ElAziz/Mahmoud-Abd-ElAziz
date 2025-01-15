@@ -24,4 +24,4 @@ Welcome to my GitHub profile! I’m a passionate and dedicated iOS engineer who 
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-abd-elaziz-707a1316a/)
 - 📧 Email: mahmoudhagar12@gmail.com
 
-Thanks for visiting my profile!
+Looking forward to connecting with you!
