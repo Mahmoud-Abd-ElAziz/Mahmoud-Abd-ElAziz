@@ -1,6 +1,6 @@
 # Hi there, I'm Mahmoud Abd ElAziz 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic iOS developer with a passion for creating innovative and user-friendly mobile applications. Here's a bit about me:
+Welcome to my GitHub profile! I’m a passionate and dedicated iOS engineer who loves crafting innovative, user-focused mobile applications. With a strong emphasis on design, functionality, and performance, I strive to create solutions that delight users and solve real-world problems.
 
 ## 🚀 About Me
 
