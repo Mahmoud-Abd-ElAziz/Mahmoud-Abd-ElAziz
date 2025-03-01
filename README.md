@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a passionate and dedicated iOS engineer who 
 
 ## 📈 GitHub Stats
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoud-hajar&show_icons=true&theme=radical)
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Abd-ElAziz&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
